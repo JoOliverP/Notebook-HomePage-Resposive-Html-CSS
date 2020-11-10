@@ -13,7 +13,7 @@ O projeto utiliza as seguintes ferramentas:
       <a href="https://notebook-homepage.vercel.app/" target="_blank">Acesse o Link</a>
 </h3>
 
-## :mortar_board: Autor 
+## :mortar_board: Tutorial Autor 
 A tutorial foi feito pelo youtuber  <a href="https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q">Dev Ed</a>
 
 
