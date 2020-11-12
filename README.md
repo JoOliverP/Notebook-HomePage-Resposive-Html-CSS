@@ -16,7 +16,8 @@ O projeto utiliza as seguintes ferramentas:
 ## :mortar_board: Tutorial Autor 
 A tutorial foi feito pelo youtuber  <a href="https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q">Dev Ed</a>
 
-
+## ⚙ ajustes
+O menu ainda precisa ser ajustado para mobile!
 
 <h4 align="center">
 Feito com 💜 por <a href="https://www.linkedin.com/in/j%C3%B3-oliveira-2756a5180/" target="_blank">Jó OLiveira</a>
